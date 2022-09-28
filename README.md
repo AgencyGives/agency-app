@@ -42,9 +42,7 @@ Once we have "clean data" for one metric, we would like to add the other frequen
 (carbon monoxide and ozone), preprocess them as above, and then combine them to produce a combine AGENCY index
 that represents a more holistic view of air quality.
 
-We chose one country to limit the scale of the data we work with. And chose the USA, as it is the most widely
-recognized country. (We also considered Europe, but that would involve 30+ different API calls, so we started with the
-simpler one).
+We chose one country to limit the scale of the data we work with. And chose the USA. (We also considered Europe, but that would involve 30+ different API calls, so we started with the simpler one).
 
 ## Hexagons
 
